@@ -1,5 +1,5 @@
 import { Stack } from "expo-router";
-import { NavigationContainer } from "@react-navigation/native";
+import '../global.css';
 
 export default function Layout() {
   return(

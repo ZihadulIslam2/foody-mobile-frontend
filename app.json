@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "food-app",
+    "name": "Foody",
     "slug": "food-app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -24,7 +24,6 @@
     },
     "plugins": [
       "expo-router",
-      "nativewind",
       [
         "expo-splash-screen",
         {
